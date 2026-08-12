@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Srikanth 👋
 
-<!--
-**srikan25/srikan25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MCA Graduate | Frontend Developer
 
-Here are some ideas to get you started:
+I'm an MCA graduate focused on frontend development and building responsive web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+- React.js
+- JavaScript
+- HTML
+- CSS
+- Tailwind CSS
+- REST API Integration
+- Git & GitHub
+- Python
+
+### 🚀 Projects
+
+- 🍔 Food Delivery Web Application
+- 📊 Dashboard
+- 🌐 Portfolio Website
+- 🌤️ Weather Application
+- 🖼️ Gallery Application
+
+### 🎯 Currently Looking For
+
+I'm looking for an entry-level Frontend Developer / React.js Developer opportunity where I can contribute to real-world applications and continue growing as a developer.
